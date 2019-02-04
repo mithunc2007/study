@@ -1,0 +1,28 @@
+   virsh nodeinfo 
+    virsh list --all
+    virsh start centos.
+    virsh dominfo centos.
+    virsh net-list
+    virsh net-info default
+    virsh net-dhcp leases default
+    virsh net-dhcp-leases default
+    virsh net-dhcp-leases
+    virsh net-dhcp-leases default
+    virsh domifaddr centos.
+    virsh --list
+    virsh -
+    virsh list --all
+    virsh  start centos.
+    history | grep virsh
+    virsh net-dhcp-leases default
+    virsh list --all
+    virsh start centos.
+    virsh net-dhcp-leases default
+    virsh domifaddr centos.
+    virsh start centos.
+    virsh 
+    history | grep virsh
+    virsh list --all
+    virsh start centos.
+    virsh domifaddr centos.
+  
