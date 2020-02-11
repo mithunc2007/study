@@ -1,0 +1,6 @@
+To add banner in linux machine
+******************************
+
+Add the content to " /etc/motd" .
+
+It will add the banner in terminal 
