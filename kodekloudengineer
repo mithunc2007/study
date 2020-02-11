@@ -1,6 +1,15 @@
-To add banner in linux machine
-******************************
+1.  To add banner in linux machine
 
-Add the content to " /etc/motd" .
+      Add the content to " /etc/motd" .
 
-It will add the banner in terminal 
+      It will add the banner in terminal
+      
+ ###############################################################################################################
+
+2.Useradd without homedirectory
+
+        useradd -M username
+        
+        
+################################################################################################################
+
