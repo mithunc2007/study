@@ -1,2 +1,2 @@
 # study
-Hi all
+Linux ,Devops ,Opensource 
